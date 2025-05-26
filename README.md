@@ -1,4 +1,17 @@
-# quillapi (Flask API Project)
+# quillapi (Flask API Foundation for Notes / Quill Blogs)
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2F2F2F?logo=flask&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-Encryption-blue?logo=flask&logoColor=white)
+![JWT Extended](https://img.shields.io/badge/JWT_Extended-Auth-4169E1?logo=flask&logoColor=white)
+![Migrate](https://img.shields.io/badge/Migrate-DB--Migrations-red?logo=flask&logoColor=white)
+![Smorest](https://img.shields.io/badge/Smorest-API-2E8B57?logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-32CD32?logo=flask&logoColor=white)
+![marshmallow](https://img.shields.io/badge/marshmallow-Schema-orange?logo=python&logoColor=white)
+
+```bash
+pip install Flask Flask-Bcrypt Flask-JWT-Extended Flask-Migrate Flask-Smorest SQLAlchemy marshmallow python-dotenv
+```
 
 ## 📌 Overview
 
