@@ -10,7 +10,7 @@
 ![marshmallow](https://img.shields.io/badge/marshmallow-Schema-orange?logo=python&logoColor=white)
 
 ```bash
-pip install Flask Flask-Bcrypt Flask-JWT-Extended Flask-Migrate Flask-Smorest SQLAlchemy marshmallow python-dotenv
+pip install Flask Flask-Bcrypt Flask-JWT-Extended Flask-Migrate Flask-Smorest Flask-SQLAlchemy marshmallow python-dotenv
 ```
 
 ## 📌 Overview
