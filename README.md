@@ -1,4 +1,4 @@
-# quillapi (Flask API Foundation for Notes / Quill Blogs)
+# quillapi (Flask API Learning Project for Notes / Quill Blogs)
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2F2F2F?logo=flask&logoColor=white)
